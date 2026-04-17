@@ -49,7 +49,7 @@ Tested on a dataset of ~1,335 continuous video sequences.
 ### Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/Violence-Detection-System.git](https://github.com/YOUR_USERNAME/Violence-Detection-System.git)
+git clone [https://github.com/5reya-ghub/Violence-Detection-System.git](https://github.com/YOUR_USERNAME/Violence-Detection-System.git)
 cd Violence-Detection-System
 
 # Install dependencies
